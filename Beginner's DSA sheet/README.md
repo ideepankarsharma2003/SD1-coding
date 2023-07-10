@@ -6,4 +6,6 @@ This list has been made for absolute beginners who dont know anything about DSA 
 Solutions:
 
 
-### [School, Basic](Basic.ipynb)
+1. ### [School, Basic](Basic.ipynb)
+2. ### [Easy](Easy.ipynb)
+3. ### [Medium](Medium.ipynb)

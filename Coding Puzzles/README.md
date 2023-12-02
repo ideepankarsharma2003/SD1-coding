@@ -41,3 +41,59 @@ def getHitProbability(R: int, C: int, G: List[List[int]]) -> float:
 
 ```
 
+
+# Level 01
+
+[Problem 01](https://www.metacareers.com/profile/coding_puzzles/?puzzle=203188678289677)
+Not working yet !!!
+```python
+from typing import List
+# Write any import statements here
+
+def can_sit(arr):
+  if True not in arr:
+    return True
+  else:
+    return False
+
+def getMaxAdditionalDinersCount(N: int, K: int, M: int, S: List[int]) -> int:
+  # Write your code here
+  # N seats ---> 1 to N
+  
+  # K seats --- diner --- K seats
+  
+  diner_seats= [False]*N
+  for i in S:
+    diner_seats[i-1]=True
+  count=0
+  for i in range(K, N):
+    if can_sit(diner_seats[i-K: i+K+1]):
+      diner_seats[i]=1
+      count+=1
+    
+  
+  print(diner_seats)
+  return count
+
+```
+
+
+
+<!--
+[Problem 01]
+```python
+```
+
+[Problem 01]
+```python
+```
+
+[Problem 01]
+```python
+```
+
+[Problem 01]
+```python
+```
+-->
+

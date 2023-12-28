@@ -8,3 +8,4 @@
 - [Longest Palindromic Subsequence](<Longest Palindromic Subsequence.ipynb>)
 - [Min. #deletions to make palindrome](<Minimum number of deletions.ipynb>)
 - [Printing Shortest Common Supersequence](<Printing Shortest Common Supersequence.ipynb>)
+- [Longest Repeating Subsequence](<Longest Repeating Subsequence.ipynb>)

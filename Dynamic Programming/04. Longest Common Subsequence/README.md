@@ -9,3 +9,4 @@
 - [Min. #deletions to make palindrome](<Minimum number of deletions.ipynb>)
 - [Printing Shortest Common Supersequence](<Printing Shortest Common Supersequence.ipynb>)
 - [Longest Repeating Subsequence](<Longest Repeating Subsequence.ipynb>)
+- [Sequence Pattern Matching](<Sequence Pattern Matching.ipynb>)

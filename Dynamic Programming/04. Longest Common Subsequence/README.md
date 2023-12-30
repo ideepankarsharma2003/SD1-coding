@@ -10,3 +10,4 @@
 - [Printing Shortest Common Supersequence](<Printing Shortest Common Supersequence.ipynb>)
 - [Longest Repeating Subsequence](<Longest Repeating Subsequence.ipynb>)
 - [Sequence Pattern Matching](<Sequence Pattern Matching.ipynb>)
+- [Minimum #insertions to make palindrome](<Minimum number of insertions to make a palindrome.ipynb>)

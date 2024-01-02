@@ -11,3 +11,5 @@
 - [Longest Repeating Subsequence](<Longest Repeating Subsequence.ipynb>)
 - [Sequence Pattern Matching](<Sequence Pattern Matching.ipynb>)
 - [Minimum #insertions to make palindrome](<Minimum number of insertions to make a palindrome.ipynb>)
+
+![image](https://github.com/ideepankarsharma2003/SD1-coding/assets/74599435/3dfd4448-595a-4f37-a8d5-c6021e868df6)
